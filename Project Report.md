@@ -17,4 +17,4 @@ In this project I'm trying to calculate this ratio for different Helsinki neighb
 To achieve my goal I will be using the following data sources: 
 - The FourSquare API will give me data for **numbers of venues** in different parts of Helsinki.
 - The city of Helsinki has made available **geodata for neighborhoods of Helsinki**. With this I can plot the neighborhoods on the map as polygons.
-- Also, **population numbers per neighborhood** are available from the city of Helsinki.
+- Also, **population numbers per neighborhood** are available from the city of Helsinki and can be used to calculate the ratio of venues per capita.
