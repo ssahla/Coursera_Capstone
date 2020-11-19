@@ -1,6 +1,6 @@
 # Helsinki Hoods
-## Project Report
-### Capstone Project - The Battle of Neighborhoods
+## Applied Data Science Capstone Project – The Battle of Neighborhoods
+### Project Report
  
 Simo Sahla
 
