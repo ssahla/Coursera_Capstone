@@ -1,4 +1,4 @@
-# Helsinki Hoods – Where to Start a Business in Helsinki?
+# Helsinki Hoods – Where to Start a Restaurant in Helsinki?
 ## Applied Data Science Capstone Project – The Battle of Neighborhoods
 ### Project Report
  
