@@ -68,14 +68,18 @@ Here is an sample of a map drawn by the map function:
 
 ### 4. Results
 
-I used the functions described in the Methodology section to get choropleth maps of venues in different sections (food, drinks, coffee and shops):
+I used the functions described in the Methodology section to get choropleth maps of venues in different sections (food, drinks, coffee and shops).
 
+Map 1: food
 ![Section: food](pics/11_map_food_2.png)
+Map 2: drinks
 ![Section: drinks](pics/12_map_drinks_2.png)
+Map 3: coffee
 ![Section: coffee](pics/13_map_coffee_2.png)
+Map 4: shops
 ![Section: shops](pics/14_map_shops_2.png)
 
-The maps show areas with higher venues-per-residents ratios in darker green and areas with lower ratios in light green.
+The maps show areas with higher venues-per-residents ratios in darker green and areas with lower ratios in light green. At a glance the maps look similar, with the same areas in darker green, but closer examination reveals differences.
 
 #### 4.1. Observations
 From the colors of the neighborhoods observations can be made. To give a couple of examples:
