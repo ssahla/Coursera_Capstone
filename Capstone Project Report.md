@@ -58,7 +58,7 @@ To get more easily readable figures, the ratio is calculated as venues per thous
 
 The _Ratio_trunc_ column is the same as _Ratio_ except that values over the ninth decile are truncated down to the ninth decile. I found this to be useful when creating a choropleth map of the results.
 
-#### 3.4. visualization
+#### 3.4. Visualization
 
 I used the Folium library to draw a choropleth map of the results. The neighborhoods are drawn on the map as polygons and colored according to the venues-per-capita ratio calculated. When a neighborhood is clicked, a label is shown with the name of the neighborhood and the calculated ratio. 
 
@@ -98,7 +98,7 @@ Examining the maps also highlights anomalies and problems in the methodology. Th
 
 ![Haltiala: nine residents and six restaurants!](pics/23_obs_haltiala.png)
 
-- Roihupelto seems to be overly saturated with food joints. This is not necessarily true, because Roihupelto is an industrial area; it has very few residents, but because of workplaces situated there, there is demand for restaurants.
+- Roihupelto seems to be overly saturated with food joints. This is not necessarily true, because Roihupelto is an industrial area; it has very few residents, but because of workplaces situated there, there is demand for restaurants. Also, the area of Roihupelto being small, the 2,000 meter radius includes venues from neighboring areas. 
 
 ![Roihupelto: people don't live there, but they work and eat there.](pics/24_obs_roihupelto.png)
 
